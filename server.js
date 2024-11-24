@@ -1,3 +1,9 @@
+/** Citation for microservice code
+ *  Date: 11/24/2024
+ *  Adapted from:
+ *  Source URL: https://www.youtube.com/playlist?list=PL4cUxeGkcC9g8OhpOZxNdhXggFz2lOuCT
+ */
+
 require("dotenv").config()
 
 const express = require("express")
